@@ -12,7 +12,7 @@ Requirements
 •	RapidAPI Account and API Key: Sign up for a RapidAPI account and acquire an API key specifically for the JSearch API. This key is crucial for accessing the API and retrieving data.
 Usage
 1.	Obtain API Key: Create a RapidAPI account and acquire an API key dedicated to the JSearch API.
-2.	Replace Placeholder: Replace "0beb7f2182mshdaa8d0a1d500f2ep1490ebjsnc5d5ee125d5d" in the headers dictionary with your actual API key.
+2.	Replace Placeholder: Replace "API_KEY" in the headers dictionary with your actual API key.
 3.	Configure Search Parameters (Optional): Modify the script to include additional parameters within the querystring dictionary. Refer to the JSearch API documentation for supported parameters like location, date posted, or job type.
 4.	Run the Script: Execute the script using Python. Navigate to the directory containing the script (e.g., job_scraper.py) and run the command python job_scraper.py in your terminal.
 Output
