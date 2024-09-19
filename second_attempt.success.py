@@ -13,7 +13,7 @@ querystring = {
 
 # Define the request headers
 headers = {  # Corrected '-' to '='
-    "x-rapidapi-key": "0beb7f2182mshdaa8d0a1d500f2ep1490ebjsnc5d5ee125d5d",
+    "x-rapidapi-key": "API_KEY_HERE",
     "x-rapidapi-host": "jsearch.p.rapidapi.com"
 }
 
